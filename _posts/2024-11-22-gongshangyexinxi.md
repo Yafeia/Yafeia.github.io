@@ -2,12 +2,12 @@
 layout: post
 read_time: true
 show_date: true
-title:  工商企业信息数据
+title:  工商企业信息数据集
 date:   2024-11-22 11:09:42 -0600
 description: 国内全量企业、法人单位工商业信息.
 img: assets/img/posts/20241122/gongshnagyexinxi.png 
 tags: [工商业数据, resset数据库]
-author: mao mao
+author: Mao Mao
 github: none
 mathjax: yes
 ---
