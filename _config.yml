@@ -29,12 +29,12 @@ author-pic: Myself.jpg
 about-author: Research interests include accounting disclosure, organizational resilience, green innovation, and corporate governance.
 
 # Contact links
-email: maoyafei@stu.zuel.edu.cn # Add your Email address
+email: 'maoyafei@stu.zuel.edu.cn' # Add your Email address
 phone: # Add your Phone number
 website: https://Yafeia.github.io # Add your website
 linkedin:  # Add your Linkedin handle
 github: Yafeia # Add your Github handle
-twitter: '' # Add your Twitter handle
+twitter:  # Add your Twitter handle ''
 bandcamp:  # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
 
